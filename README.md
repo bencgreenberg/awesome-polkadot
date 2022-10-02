@@ -12,12 +12,16 @@ A curated list of awesome Polkadot tools, projects and resources.
 
 ## Tools
 
-- [substrate](https://substrate.io/) - An SDK to build future proof blockchains optimized for any use case
+- [substrate](https://substrate.io/) - An SDK to build future-proof blockchains optimized for any use case
+- [polkadot.js](https://polkadot.js.org/) - A browser-based wallet for Polkadot
 
 ## Projects
 
-- [parachains.info](https://parachains.info/) - Learn about all the parachains built on Polkadot and on Kusama
+- [parachains.info](https://parachains.info/) - Learn about all the parachains built on Polkadot and Kusama
 
 ## Resources
 
 - [substrate playground](https://substrate.io/developers/playground/) - Backend and frontend sandboxes to experiment with substrate
+- [Polkadot developer portal](https://polkadot.network/build/) - The official dev portal for Polkadot
+- [Polkadot forum](https://forum.polkadot.network/) - A place for the Polkadot community to discuss the future of Polkadot
+- [Polkadot YouTube](https://www.youtube.com/c/polkadotnetwork) - Workshops, talks, tutorials and more on the official YouTube channel
